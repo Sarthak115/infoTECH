@@ -13,7 +13,7 @@ export default function Testimonials() {
       name: "Sarah Chen",
       role: "Cybersecurity Analyst",
       company: "TechCorp",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
       quote:
         "infoTECH transformed my career completely. The hands-on approach and real-world projects gave me the confidence to excel in cybersecurity. The mentorship was exceptional!",
       rating: 5,
